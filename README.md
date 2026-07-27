@@ -1,24 +1,24 @@
 # Hi, I'm Ivo 👋
 
-**Computer Engineering student @ FURG** (Rio Grande, Brazil) — focused on **embedded systems, robotics, and simulation**, with a strong foundation in mathematics and physics. I'm most at home where code meets the physical world: modeling dynamics, building autonomy, and rendering things from scratch.
+Computer Engineering student at FURG (Rio Grande, Brazil), focused on **embedded systems, robotics, and simulation**, with a strong foundation in mathematics and physics. I'm most at home where code meets the physical world: modeling dynamics, building autonomy, and rendering things from scratch.
 
-## 🚁 What I'm working on
+## Current work
 
-- **Hydrone** — R&D project building a hybrid aerial-aquatic autonomous drone. I work on **ROS2 integration**, **SITL simulation** (ArduPilot/ArduSub), and **autonomy architectures** — including behavior-tree-based mission orchestration and stereo-vision perception (ZED camera) for GPS-denied navigation.
-- **OpenGL game engine** — a from-scratch engine in C++ to learn graphics programming at the metal: rendering pipeline, mesh generation, texturing, camera/frustum math.
+- **Hydrone** — R&D project building a hybrid aerial-aquatic autonomous drone. I work on ROS2 integration, SITL simulation (ArduPilot/ArduSub), and autonomy architectures — including behavior-tree-based mission orchestration and stereo-vision perception (ZED camera) for GPS-denied navigation.
+- **OpenGL game engine** — a from-scratch engine in C++ to learn graphics programming at the metal: rendering pipeline, mesh generation, texturing, camera and frustum math.
 
-## 🛠️ Tech
+## Tech
 
 **Languages:** C++ · Python · GLSL
 **Robotics & simulation:** ROS2 · ArduPilot / ArduSub · SITL · MAVLink · QGroundControl
 **Graphics:** OpenGL · SDL3
-**Interests:** robotics & autonomy · graphics/rendering · mathematical modeling · systems-level programming
+**Interests:** robotics & autonomy · graphics and rendering · mathematical modeling · systems-level programming
 
-## 🏅 Highlights
+## Highlights
 
 - 🥉 OBMEP Bronze Medal (Brazilian Mathematics Olympiad)
-- 🎤 Technical seminar on water entry/exit fluid dynamics for the Hydrone team
-- 👨‍🏫 Mentoring new student members on the Hydrone project
+- Technical seminar on water entry/exit fluid dynamics for the Hydrone team
+- Mentoring new student members on the Hydrone project
 
 ## 📊 Stats
 
